@@ -4,7 +4,7 @@
 
 📫 How to reach me: alfonsopajader007@gmail.com
 
-[LinkedIN](https://www.linkedin.com/feed/)
+[LinkedIn](https://www.linkedin.com/feed/)
 
 <!--
 **AlfonsoPajader/AlfonsoPajader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
